@@ -21,7 +21,7 @@ I'm actively working on projects that combine these interests—from business sy
 ### [LinkSphere](https://github.com/030817SOM/LinkSphere)
 A Spring Boot business network management system built with PostgreSQL. Explores backend architecture, database design, and REST API development.
 
-### [AI Research Topic Explorer](https://github.com/030817SOM/AI-Research-Topic-Explorer)
+### [AI Research Topic Explorer](https://github.com/030817SOM/AI-Research-Papers)
 A tool for collecting and analyzing research papers to discover emerging AI research topics. Combines data processing, analysis, and research exploration.
 
 ## 🚀 Currently Working On
