@@ -47,7 +47,7 @@ A tool for collecting and analyzing research papers to discover emerging AI rese
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=030817SOM&show_icons=true&theme=dark)
+(https://github-readme-stats.vercel.app/api?username=030817SOM&show_icons=true&theme=dark)
 
 ## 🤝 Connect
 
